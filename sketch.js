@@ -19,7 +19,7 @@ function preload() {
   singleBell = loadSound('Sounds/singleBell.mp3');
   white = loadSound('Sounds/whiteSound.mp3');
   wind = loadSound('Sounds/wind.mp3');
-  windChime = loadSound('Sounds/windChime.mp3');
+  windChime = loadSound('Sounds/windchime.mp3');
 }
 
 function setup() {
